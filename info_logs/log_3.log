@@ -1,0 +1,12 @@
+2023-10-30 15:51:40,168 - my_logger_obj - INFO   - PROGRAM BEGINS - [main.py]
+2023-10-30 15:51:40,168 - my_logger_obj - INFO   - Preprocess begins - [main.py]
+2023-10-30 15:51:40,185 - my_logger_obj - INFO   - Preprocess finished - [main.py]
+2023-10-30 15:51:40,186 - my_logger_obj - INFO   - RDKIT_fps_repr  generate the fingerprints  - [main.py]
+2023-10-30 15:51:54,606 - my_logger_obj - INFO   - Morgan_ECFP_fps_repr  generate the fingerprints  - [main.py]
+2023-10-30 15:52:11,068 - my_logger_obj - INFO   - PLEC_fps_repr  generate the fingerprints  - [main.py]
+2023-10-30 15:52:35,082 - my_logger_obj - INFO   - E3FP_fps_repr  generate the fingerprints  - [main.py]
+2023-10-30 15:53:04,417 - my_logger_obj - INFO   - The total amount of generated models:144 - [main.py]
+2023-10-30 15:53:04,428 - my_logger_obj - INFO   - The end of the function - [main.py]
+2023-10-30 15:53:04,430 - my_logger_obj - INFO   - Best model combinations:(MLPRegressor(activation='identity', hidden_layer_sizes=100, max_iter=1000,
+             random_state=42), 'MDS_dim_red', 'Morgan_ECFP_fps_repr', 10) - [main.py]
+2023-10-30 15:53:04,432 - my_logger_obj - INFO   - Make prediction on the full data - [main.py]
